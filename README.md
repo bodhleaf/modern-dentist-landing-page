@@ -1,4 +1,4 @@
-# modern-dentist-landing-page
+# Modern Dentist Landing Page (Design to Code)
 
 My first modern landing page.
 
